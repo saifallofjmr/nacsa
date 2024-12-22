@@ -6,7 +6,7 @@ import Footer from "@/components/universal/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "North American Counter Strike Association",
+  title: "NACSA",
     description: "The BEST CounterStrike Organization in North America. <br> https://discord.gg/THa79web",
 };
 

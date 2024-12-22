@@ -19,16 +19,16 @@ export default function Footer() {
       </div>
 
       <div className="flex flex-row gap-10 text-lg md:text-xl">
-        <Link href={"https://x.com/AfterHoursCS2"} target="_blank">
+        <Link href={"https://x.com/NACSA"} target="_blank">
           <FaXTwitter className="" />
         </Link>
-        <Link href={"https://www.youtube.com/@AfterHoursCS2"} target="_blank">
+        <Link href={"https://www.youtube.com/@NACSA"} target="_blank">
           <FaYoutube />
         </Link>
-        <Link href={"https://www.instagram.com/afterhourscs2"} target="_blank">
+        <Link href={"https://www.instagram.com/NACSA"} target="_blank">
           <AiFillInstagram />
         </Link>
-        <Link href="mailto:treatphd@afterhourscs2.com">
+        <Link href="mailto:admin@NACSA.com">
           <MdEmail />
         </Link>
       </div>
@@ -53,7 +53,7 @@ export default function Footer() {
         </Link>
       </div>
       <div className="text-center text-[10px] md:text-[11px]">
-        Copyright &copy; {new Date().getFullYear()} Afterhours, Designed by{" "}
+        Copyright &copy; {new Date().getFullYear()} North American Counter Strike Association, Designed by{" "}
         <Link
           href={"https://pantheras.ca"}
           target="_blank"
