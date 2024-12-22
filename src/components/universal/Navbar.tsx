@@ -24,7 +24,7 @@ export default function Navbar() {
     >
       <div className="">
         <Image
-          src="/assets/navbar.png"
+          src="/assets/navbar_new.png"
           width={1000}
           height={1000}
           alt="owl logo"
