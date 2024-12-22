@@ -24,9 +24,9 @@ export default function Navbar() {
     >
       <div className="">
         <Image
-          src="/assets/navbar_new.png"
-          width={1000}
-          height={1000}
+          src="/assets/nacsa_icon_250x250.png"
+          width={250}
+          height={250}
           alt="owl logo"
           className="w-24 lg:w-36"
         />
