@@ -36,7 +36,7 @@ const Card = ({
 };
 
 export default function Home() {
-  const words = ["COMPETITION", "STANDARDS", "COMEBACKS", "CHALLENGES"];
+  const words = ["COUNTER", "STRIKE", "ASSOCIATION"];
   const [wordsIndex, setWordsIndex] = useState(0);
 
   useEffect(() => {
@@ -61,7 +61,7 @@ export default function Home() {
         <div className="absolute flex flex-col items-center justify-center">
           <AnimatePresence mode="popLayout">
             <h1 className="poppins mb-10 w-[95%] text-2xl md:w-[834px] whitespace-nowrap md:text-6xl font-bold text-white">
-              DEFINING THE{" "}
+              NORTH AMERICAN{" "}
               <motion.span
                 key={wordsIndex}
                 className="relative text-lightblue"
