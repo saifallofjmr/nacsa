@@ -6,8 +6,8 @@ import Footer from "@/components/universal/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "afterHours eSports",
-    description: "The BEST eSports Organization in North America. <br> https://discord.gg/afterhourscs2",
+  title: "North American Counter Strike Association",
+    description: "The BEST CounterStrike Organization in North America. <br> https://discord.gg/THa79web",
 };
 
 export default function RootLayout({

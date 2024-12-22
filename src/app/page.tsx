@@ -77,7 +77,7 @@ export default function Home() {
 
           <button className="poppins m-7 mx-auto h-10 w-40 rounded-lg bg-primary text-lg font-medium text-white shadow-xl hover:bg-accent hover:text-bg">
             <Link
-              href="https://discord.com/invite/afterhourscs2"
+              href="https://discord.gg/THa79web"
               target="_blank"
             >
               DISCORD
